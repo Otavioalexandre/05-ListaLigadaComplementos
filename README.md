@@ -1,4 +1,8 @@
 # Lista Ligada - Complmenentos
+
+# Dados do aluno
+* Nome: Otavio Alexandre
+* Email: otavio.ferreira01@fatec.sp.gov.br
 ---
 
 ## Objetivos
